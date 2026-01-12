@@ -1,0 +1,25 @@
+{
+  "short_name": "OctoFit",
+  "name": "OctoFit Tracker - Fitness Application",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "32x32",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "octofit-logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "48x48 any",
+      "purpose": "any"
+    },
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a1a2e",
+  "background_color": "#f5f7fa"
+}
